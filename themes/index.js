@@ -430,6 +430,13 @@ export const themes = {
     border_color: "ffffff",
     bg_color: "000000",
   },
+  custom: {
+    title_color: "red",
+    icon_color: "yellow",
+    text_color: "black",
+    bg_color: "violet",
+    border_color: "green",
+  },
 };
 
 export default themes;
